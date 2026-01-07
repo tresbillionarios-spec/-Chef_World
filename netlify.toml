@@ -1,0 +1,13 @@
+# Netlify configuration for Angular SPA
+# This file must be at the project root (same level as package.json)
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Build settings
+[build]
+  command = "ng build --configuration=production"
+  publish = "dist/catering-static-site"
+

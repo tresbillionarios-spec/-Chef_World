@@ -1,0 +1,129 @@
+{
+  "categoryLimits": {
+    "Sweets": 2,
+    "Breads": 2,
+    "Sabji": 2
+  },
+  "items": [
+    {
+      "id": "sweet1",
+      "name": "Gulab Jamun",
+      "category": "Sweets",
+      "price": 50,
+      "description": "Soft, melt-in-mouth traditional sweet"
+    },
+    {
+      "id": "sweet2",
+      "name": "Rasgulla",
+      "category": "Sweets",
+      "price": 45,
+      "description": "Spongy, syrupy Bengali delight"
+    },
+    {
+      "id": "sweet3",
+      "name": "Kaju Katli",
+      "category": "Sweets",
+      "price": 80,
+      "description": "Premium cashew fudge"
+    },
+    {
+      "id": "sweet4",
+      "name": "Barfi",
+      "category": "Sweets",
+      "price": 60,
+      "description": "Classic milk-based sweet"
+    },
+    {
+      "id": "bread1",
+      "name": "Naan",
+      "category": "Breads",
+      "price": 30,
+      "description": "Soft, leavened flatbread"
+    },
+    {
+      "id": "bread2",
+      "name": "Roti",
+      "category": "Breads",
+      "price": 20,
+      "description": "Whole wheat flatbread"
+    },
+    {
+      "id": "bread3",
+      "name": "Paratha",
+      "category": "Breads",
+      "price": 40,
+      "description": "Layered, flaky flatbread"
+    },
+    {
+      "id": "bread4",
+      "name": "Kulcha",
+      "category": "Breads",
+      "price": 35,
+      "description": "Soft, slightly sweet bread"
+    },
+    {
+      "id": "sabji1",
+      "name": "Paneer Butter Masala",
+      "category": "Sabji",
+      "price": 120,
+      "description": "Creamy, rich cottage cheese curry"
+    },
+    {
+      "id": "sabji2",
+      "name": "Dal Makhani",
+      "category": "Sabji",
+      "price": 100,
+      "description": "Creamy black lentil curry"
+    },
+    {
+      "id": "sabji3",
+      "name": "Chole",
+      "category": "Sabji",
+      "price": 90,
+      "description": "Spicy chickpea curry"
+    },
+    {
+      "id": "sabji4",
+      "name": "Aloo Gobi",
+      "category": "Sabji",
+      "price": 80,
+      "description": "Potato and cauliflower curry"
+    },
+    {
+      "id": "sabji5",
+      "name": "Rajma",
+      "category": "Sabji",
+      "price": 95,
+      "description": "Kidney bean curry"
+    },
+    {
+      "id": "rice1",
+      "name": "Basmati Rice",
+      "category": "Rice",
+      "price": 50,
+      "description": "Aromatic long-grain rice"
+    },
+    {
+      "id": "rice2",
+      "name": "Biryani",
+      "category": "Rice",
+      "price": 150,
+      "description": "Fragrant spiced rice dish"
+    },
+    {
+      "id": "salad1",
+      "name": "Green Salad",
+      "category": "Salad",
+      "price": 40,
+      "description": "Fresh mixed vegetables"
+    },
+    {
+      "id": "salad2",
+      "name": "Raita",
+      "category": "Salad",
+      "price": 35,
+      "description": "Yogurt with vegetables"
+    }
+  ]
+}
+
